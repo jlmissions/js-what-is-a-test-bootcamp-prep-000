@@ -7,4 +7,8 @@ module.exports = {name, height, message}
 function say(greeting, firstName) {
   console.log(`${greeting}, ${firstName}!`)
 }
-say ("Hello", "John")
+
+function add(x, y) {
+  return x + y
+}
+add(1, 2)
