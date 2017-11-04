@@ -7,4 +7,4 @@ module.exports = {name, height, message}
 function add(x, y){
   return x + y
 }
-add (1, 2)
+add(1, 2)
